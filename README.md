@@ -22,7 +22,7 @@ Countdown Timer:
 
 INSTALLATION
 > Clone the repository:
-   git clone <repository-url>
+   git clone (https://github.com/Nuthalapatimanoj/SKILLRAACE.git)
 
 Install dependencies:
  > pip install -r requirements.txt
@@ -30,20 +30,20 @@ Install dependencies:
 
 USAGE
 Emoji to Text Converter:
->Run emoji_to_text.py.
+>Run Task1-A(ii).py.
 >Enter a string containing emojis when prompted.
 >The script will convert emojis to their corresponding text.
 
 Flames Game:
-> Run flames_game.py.
+> Run Task1-B(ii).py.
 > Follow the prompts to enter two names.
 > The result of the flames calculation will be displayed.
 
 Indian Flag Display using Python Turtle:
-> Run indian_flag.py.
+> Run TASK2_FLAG.py.
 > A window will open displaying the Indian flag using graphical turtle commands.
 
 Countdown Timer:
-> Run countdown_timer.py.
+> Run TASK3_COUNTDOWNTIMER.py.
 > Follow the prompts to enter the time duration in seconds.
 > The countdown will begin and display remaining time until completion
