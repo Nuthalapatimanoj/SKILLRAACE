@@ -1,1 +1,11 @@
+TASK3_REQUIREMENTS:
+1.Install playsound module
+2.Get the brush,eggs,face images and alarm_clock mp3 ringtone.
+3.Make sure all the images,ringtone and code are saved in same folder.
+4.brush.png,eggs.png,face.png and alarm_clock.mp3
 
+TASK2_REQUIREMENTS:
+1.Make sure turtle is install and just the code .
+
+TASK1_REQUIREMENTS:
+1.module like demoji mainly to convert emoji to text program 
